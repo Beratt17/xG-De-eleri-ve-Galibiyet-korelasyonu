@@ -1,2 +1,2 @@
-# xG-De-eleri-ve-Galibiyet-korelasyonu
+# xG-Degerleri ve galibiyet korelasyonu
 Football Analytics 
